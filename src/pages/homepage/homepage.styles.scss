@@ -5,3 +5,8 @@
   padding: 20px 80px;
 }
 
+@media (max-width: 675px){
+  .homepage{
+    padding:unset;
+  }
+}
